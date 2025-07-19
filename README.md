@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mdfaisal9045
+- 👋 Hi, I’m Md Faisal
 - 👀 I’m interested in building apps and websites 
 - 🌱 I’m currently learning Java full stack 
 - 💞️ I’m looking to collaborate on ...
